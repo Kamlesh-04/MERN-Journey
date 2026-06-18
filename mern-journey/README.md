@@ -26,3 +26,7 @@ June 2026
 ## 📈 Progress
 
 Current Progress: 5%
+
+## Daily Progress
+
+- Learning Git and GitHub
