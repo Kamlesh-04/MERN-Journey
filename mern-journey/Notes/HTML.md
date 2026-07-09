@@ -20,6 +20,7 @@ What does the <body> section contain?
 The <body> section contains everything that is visible on the webpage, Whatever you see on a webpage is generally inside the <body>.
 
 ## HTML Headings
+
 What is a heading?
 it is a title or subtitle that organizes webpages content.
 
@@ -27,6 +28,7 @@ Why do we use headings?
 To organize content, improve readability, hlep search engines understand the page, supports accessibility.
 
 Difference between <h1> and <h6>.
+
 <h1> is the highest-level and most important heading; <h6> is the lowest-level and least important heading.
 
 How many <h1> tags should a page usually have?
@@ -34,3 +36,24 @@ usually one main<h1> per page, with lower-level headings used for sections and s
 
 Why shouldn't headings be used just to make text look bigger?
 headings describe the structure and meaning of the content, if you only want to change appearance then use CSS.
+
+## HTML Paragraphs
+
+What is the <p> tag?
+The <p> is used to create paragraph in html.
+
+Why do we use paragraphs?
+paragraph make content easier to read.
+
+Difference between headings and paragraphs.
+A heading is a title and a paragraph explains the title.
+
+What does <br> do?
+<br> syands for line break.
+
+What does <hr> do?
+
+<hr> stands for horizontal rule. It drows a horizontal line across the webpage.
+
+Why does HTML ignore multiple spaces?
+HTML automatically removes extra whitespace to keep webpages consistent and readable.
