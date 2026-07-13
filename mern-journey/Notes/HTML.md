@@ -28,7 +28,6 @@ Why do we use headings?
 To organize content, improve readability, hlep search engines understand the page, supports accessibility.
 
 Difference between <h1> and <h6>.
-
 <h1> is the highest-level and most important heading; <h6> is the lowest-level and least important heading.
 
 How many <h1> tags should a page usually have?
@@ -52,8 +51,27 @@ What does <br> do?
 <br> syands for line break.
 
 What does <hr> do?
-
 <hr> stands for horizontal rule. It drows a horizontal line across the webpage.
 
 Why does HTML ignore multiple spaces?
 HTML automatically removes extra whitespace to keep webpages consistent and readable.
+
+## HTML Lists
+
+What is an unordered list?
+An unorderd list is a list of items where the order dose not matter.
+
+What is an ordered list?
+An ordered list is a list where the order of items is important.
+
+What is the <li> tag?
+<li> stands for list item, it represent one item inside alist.
+
+When should you use <ol>?
+use <ol> whenever sequence or order matters.
+
+When should you use <ul>?
+use <ul> whenever order dose not matters.
+
+What is a nested list?
+a nested list is a list placed inside a list.
