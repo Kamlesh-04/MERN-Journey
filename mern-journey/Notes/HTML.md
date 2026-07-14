@@ -95,3 +95,20 @@ a mailto: links opens the users default email application with the recipients em
 
 What is a tel: link?
 a tel: links allows users to call a phone number directly from supported devices.
+
+## HTML Images
+
+What is the <img> tag?
+the <img> tag is used to display an image on a webpage.
+
+What does the src attribute do?
+src stands for source. it tells the browser where the image file is located.
+
+Why is the alt attribute important?
+alt stand for alternative text. it describes the image in words.
+
+Why should images be stored in a separate folder?
+using a images folder keeps the project clean. every developer stores images separately.
+
+What happens if the image path is incorrect?
+the browser cannot find the image.
