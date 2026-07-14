@@ -75,3 +75,23 @@ use <ul> whenever order dose not matters.
 
 What is a nested list?
 a nested list is a list placed inside a list.
+
+## HTML Links
+
+What is the <a> tag?
+the <a> tag, also called the Anchor tag, is  used to create hyperlinks in html.
+
+What is the href attribute?
+href stands for hypertext refrence. it tells the browser where the link should go when click.
+
+What does target="_blank" do?
+target="_blank" opens the linked page in new tab.
+
+What is the difference between an absolute link and a relative link?
+an absolute link contains the complete web address(URL). a relative link points to another file inside your project.
+
+What is a mailto: link?
+a mailto: links opens the users default email application with the recipients email address already filled in.
+
+What is a tel: link?
+a tel: links allows users to call a phone number directly from supported devices.
