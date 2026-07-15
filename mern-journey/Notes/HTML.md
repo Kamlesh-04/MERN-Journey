@@ -112,3 +112,24 @@ using a images folder keeps the project clean. every developer stores images sep
 
 What happens if the image path is incorrect?
 the browser cannot find the image.
+
+## HTML Tables
+
+What is a table?
+a table is used to orgnize and display data in ros and columns. tables are created using <table> tag.
+
+What does <tr> do?
+<tr> stands for table row. it creates one row inside a table.
+
+What is the difference between <th> and <td>?
+<th> stands for table heading. it is used for column headings. by default browser <th> text in bold and centerd.
+<td> stands for table data. it contains the actual data inside the table.
+
+What is colspan?
+colspan means column span. it allow one cell to merg multiple columns.
+
+What is rowspan?
+rowspan means row span. iit allow one cell to merg multiple rows.
+
+When should HTML tables be used?
+it is used to show data in tabular form.
