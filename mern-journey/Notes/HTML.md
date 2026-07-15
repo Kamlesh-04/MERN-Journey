@@ -133,3 +133,26 @@ rowspan means row span. iit allow one cell to merg multiple rows.
 
 When should HTML tables be used?
 it is used to show data in tabular form.
+
+## HTML Forms
+
+What is the purpose of the <form> tag?
+the <form> tag is used to collect information from user and send it to a server. everything related to user inputs(text boxes, radio buttons, etc.) is placed inside a <form>.
+
+Why do we use <label>?
+it tells user what information they should enter.
+
+What is the difference between a text input and a password input?
+text input is used for normal text like name, city, etc. and password input is used for password the characters are hidden for privacy.
+
+When should you use radio buttons?
+use radio button when one answer is allowed.
+
+When should you use checkboxes?
+use checkboxes when multiple answers allowed.
+
+What is a <textarea> used for?
+a <textarea> is used when users need to enter multiple lines of text.
+
+What is the purpose of a <select> element?
+the <select> element creates a drop-down list. it lets users choose an option from a predefined list.
