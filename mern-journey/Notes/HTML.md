@@ -156,3 +156,33 @@ a <textarea> is used when users need to enter multiple lines of text.
 
 What is the purpose of a <select> element?
 the <select> element creates a drop-down list. it lets users choose an option from a predefined list.
+
+## Semantic HTML
+
+What is Semantic HTML?
+sementic HTML meaans using html tgs that describe the meaning and purpose of the content, insted of just its appearance.
+
+Why is it better than using only <div>?
+a <div> is a genric container. it dosen't describe what its content means.
+
+What is the purpose of:
+<header>
+the <header> element contains the introductory content off a page or section. like- title,logo,etc.
+
+<nav>
+the <nav> element contains navigation links. helps users to move to different pages.
+
+<main>
+it contains the main content of the webpage. each page can contain only one <main> element.
+
+<section>
+a <section> groups related content under one topic. usually it contains a heading.
+
+<article>
+an <article> contains independent, self-contained content that can stand on its own. like-blog,review,etc.
+
+<aside>
+it contains the extra information related to the main content. like- advertisement, tips, etc.
+
+<footer>
+it contains information shown at the bottom of the page or section. like- copyright
