@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Information Portal</title>
+</head>
+<body>
+  <header>
+    <h1>Admission Form</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="courses.html">Courses</a> |
+      <a href="admission.html">Admission</a>
+    </nav>
+  </header>
+  <form action="">
+    <label for="student-name">Student Name</label>
+    <input type="text" name="student-name" id="student-name">
+    <br>
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email">
+    <br>
+    <label for="phone">Phone</label>
+    <input type="tel" name="phone" id="phone">
+    <br>
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password">
+    <br>
+    <label for="date">Date of Birth</label>
+    <input type="date" name="date" id="date">
+    <br>
+    <p>Gender</p>
+    <label for="male">Male</label>
+    <input type="radio" name="gender" id="male">
+    <label for="female">Female</label>
+    <input type="radio" name="gender" id="female">
+    <label for="other">Other</label>
+    <input type="radio" name="other" id="other">
+    <br><br>
+    <label for="course">Course Selection</label>
+    <select name="course" id="course">
+      <option value="">Select a Course</option>
+      <option value="bsc-it">B.Sc IT</option>
+      <option value="bca">BCA</option>
+      <option value="mca">MCA</option>
+      <option value="full-stack-development">Full Stack Development</option>
+    </select>
+    <br>
+    <p>Skills</p>
+    <label for="html">HTML</label>
+    <input type="checkbox" name="skills" id="html">
+    <label for="css">CSS</label>
+    <input type="checkbox" name="skills" id="css">
+    <label for="javascript">JavaScript</label>
+    <input type="checkbox" name="skills" id="javascript">
+    <br>
+    <label for="address">Address</label>
+    <textarea name="address" id="address" rows="5" cols="30">
+    </textarea>
+    <br>
+    <button type="submit">Submit</button>
+    <button type="reset">Reset</button>
+  </form>
+</body>
+</html>
