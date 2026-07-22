@@ -1,4 +1,4 @@
-# Student Information Portal
+# Complete HTML Final Project - Student Information Portal
 
 ## Objective
 
