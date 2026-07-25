@@ -1,0 +1,19 @@
+body {
+  background-color: lightslategray;
+}
+
+#main-title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: black;
+}
+
+.nature {
+  font-size: 15px;
+  color: lightgoldenrodyellow;
+}
+
+.tech {
+  font-size: 15px;
+  color: lightcyan;
+}

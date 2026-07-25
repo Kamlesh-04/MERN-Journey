@@ -24,3 +24,17 @@ CSS is written in aseprate .css file.
 
 - Why is external CSS preferred?
 External CSS is preferred because it keeps HTML and CSS seprate. and the same style.css file can style multiple HTML pages.
+
+## CSS Selectors
+
+- Element selector
+- An element selector selects HTML elements using their tag name. Ex- h1, p, etc. this applies the style to all <h1> or <p> elements.
+
+- Class selector
+- A class selector selects elements using the class attribute. the dot(.) is used brfore the class name. the same class can be used on multiple hTMl elements.
+
+- ID selector
+An id selector selects one specific elements using  the id attribute. the hash(#) is used before the id name. an id should genrally be unique on a page.
+
+- Grouping selector
+A grouping selector allows you to apply the same CSS style to multiple selectors. Ex- h1, p, button{}. this applies the same font-family to <h1> <p> <button> grouping makes your CSS shorter and cleaner.
