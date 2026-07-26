@@ -78,3 +78,23 @@ It controls how thick or bold the text appears. you can also use numbers. Ex- 40
 
 - text-decoration
 It adds or removes decoration from text. Ex- to remove the default underline from a link.
+
+## CSS Box Model
+
+- Content
+The content is the actual information inside an element.
+
+- Padding
+Padding is the space between the content and the border.
+
+- Border
+A border is the line around the content and padding.
+
+- Margin
+Margin is the space outside the border. it creates space between the element and other elements.
+
+- Width
+Width controls how wide an element is.
+
+- Height
+Height controls how tall an element is.
