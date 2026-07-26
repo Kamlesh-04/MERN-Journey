@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(34, 33, 33);
+}
+h1{
+  color: crimson;
+}
+#p1{
+  color: #4c8e91;
+}
+#p2{
+  color: rgb(183, 105, 255);
+}
+#p3{
+  color: hsl(33, 33%, 53%);
+}
+button{
+  background-color: blue;
+  color: rgb(255, 255, 255);
+}

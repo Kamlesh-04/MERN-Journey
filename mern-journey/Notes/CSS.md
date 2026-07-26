@@ -38,3 +38,26 @@ An id selector selects one specific elements using  the id attribute. the hash(#
 
 - Grouping selector
 A grouping selector allows you to apply the same CSS style to multiple selectors. Ex- h1, p, button{}. this applies the same font-family to <h1> <p> <button> grouping makes your CSS shorter and cleaner.
+
+## CSS Colors
+
+- Named colors
+CSS provides many predefined colorrs names that you can directly use. Ex- red, green, blue, etc.
+
+- Hexadecimal colors
+Hex colors use # followed by six characters. Ex- #RRGGBB
+RR - Red
+GG - Green
+BB - Blue
+
+- RGB colors
+RGB stands for Red, Green, Blue. Value range from 0 to 255. Ex- rgb(255, 0, 0)
+Red: 255
+Green: 0
+Blue: 0
+
+- background-color
+The background-color property changes the background color of an element.
+
+- color
+The color property changes the text color.
