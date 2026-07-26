@@ -61,3 +61,20 @@ The background-color property changes the background color of an element.
 
 - color
 The color property changes the text color.
+
+## CSS Text and Fonts
+
+- text-align
+These properties are used to style and control text in CSS. Ex- Left, Right, Center.
+
+- font-size
+It changes the size of the text.
+
+- font-family
+It changes the tupeface or font uused for the text.
+
+- font-weight
+It controls how thick or bold the text appears. you can also use numbers. Ex- 400-Normal, 700-Bold.
+
+- text-decoration
+It adds or removes decoration from text. Ex- to remove the default underline from a link.
