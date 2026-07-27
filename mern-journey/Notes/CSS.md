@@ -98,3 +98,17 @@ Width controls how wide an element is.
 
 - Height
 Height controls how tall an element is.
+
+## CSS Display Property
+
+- block
+Starts on a new line. usually takes the full available width.
+
+- inline
+Stays on the same line. takes only the space it needs.
+
+- inline-block
+Stays on the same line like inline. allows you to set width and height like block.
+
+- none
+Completely hides the element. it also takes up no space.
