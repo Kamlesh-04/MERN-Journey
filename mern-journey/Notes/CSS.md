@@ -112,3 +112,20 @@ Stays on the same line like inline. allows you to set width and height like bloc
 
 - none
 Completely hides the element. it also takes up no space.
+
+## CSS Position Property
+
+- static
+Static is the default position of every HTML element. elements appear in the normal document flow, top, right, bottom, left do not have any effect.
+
+- relative
+Relative keeps the element in its normal position, but allows you to move it using top, right, bottom, or left.
+
+- absolute
+Absolute removes the element from the normal document flow. it is positioned relative to its nearest positioned parent(a parent with position: relative,absolute,fixed, or sticky).
+
+- fixed
+fixed positions an element relative to the browser window. it stays in the same place even when the page is scrolled.
+
+- sticky
+sticky behaves like relative until you scroll to a specified position. then it sticks to that position.

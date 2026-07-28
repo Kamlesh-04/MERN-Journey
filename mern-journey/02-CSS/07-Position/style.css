@@ -1,0 +1,31 @@
+.parent{
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+  position: relative;
+}
+.relative-box{
+  background-color: lightblue;
+  width: 200px;
+  height: 150px;
+  position:relative;
+  top: 20px;
+  left: 20px;
+}
+.absolute-box{
+  background-color: lightgreen;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+button{
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+h1{
+  position: sticky;
+  top: 0;
+}
