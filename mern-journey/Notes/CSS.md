@@ -129,3 +129,25 @@ fixed positions an element relative to the browser window. it stays in the same 
 
 - sticky
 sticky behaves like relative until you scroll to a specified position. then it sticks to that position.
+
+## CSS Flexbox
+
+What is Flexbox?
+Flexbox is a CSS layout system used to arrange elements in a easily row or column. it helps to control:
+-The direction of elements
+-Spacing between elements
+-Horizontal alignment
+-Vertical alignment
+
+What does display: flex do?
+display: flex turns the elements into a flex container. its direct child element becom flex items. by default flexbox palaces the child elements in a row.
+
+What is the difference between justify-content and align-items?
+justify-content aligns items along the main axis. when flex-direction: row, it controls horizontal alignment.
+align-items aligns items along the cross axis. when flex-direction: row, it controls vertical alignment.
+
+What does gap do?
+gap adds space between flex items.
+
+When would you use flex-direction: column?
+when you want the child elements to appear vertically, one below another.
