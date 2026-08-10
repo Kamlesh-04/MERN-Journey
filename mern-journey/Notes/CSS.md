@@ -151,3 +151,23 @@ gap adds space between flex items.
 
 When would you use flex-direction: column?
 when you want the child elements to appear vertically, one below another.
+
+## CSS Grid
+
+- display: grid
+Turns an element into a grid container. it allows you to arrange items into rows and columns.
+
+- grid-template-columns
+Defines the number and size of columns.
+
+- grid-template-rows
+Defines the number and size of rows.
+
+- gap
+Creates space between rows and columns.
+
+- grid-column
+Controls which columns an item occupies. you can also specify a starting and ending column.
+
+- fr unit
+fr means fraction of the available space.
