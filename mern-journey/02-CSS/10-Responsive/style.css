@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+  gap: 20px;
+  background-color: gold;
+  border: 2px solid black;
+}
+.box{
+  border: 2px solid wheat;
+  background-color: rgb(46, 46, 179);
+  color: white;
+  flex: 1;
+  text-align: center;
+  padding: 40px;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .container{
+    flex-direction: column;
+    background-color: greenyellow;
+  }
+  .box{
+    background-color: blueviolet;
+  }
+}

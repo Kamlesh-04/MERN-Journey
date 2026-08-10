@@ -171,3 +171,17 @@ Controls which columns an item occupies. you can also specify a starting and end
 
 - fr unit
 fr means fraction of the available space.
+
+## Responsive Design
+
+- Viewport
+The viewport is the visible area of a webpage on a devices screen. Ex- Desktop = Large viewport, Tablet = Medium viewport, Mobile = Small viewport.
+
+- Media queries
+A media query allows CSS to apply diffrent style depending on the screen size.
+
+- max-width
+max-width means "up to this width".
+
+- Mobile-first design
+Mobile-first means you design your website for small screens first, then add styles for larger screens.
