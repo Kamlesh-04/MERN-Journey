@@ -44,3 +44,17 @@ null means you intentionally have no value.
 
 - typeof
 typeof is an operator used to check the data type of a value.
+
+## Operators
+
+- Arithmetic operators
+Used for mathematical calculations. such as addition, substraction, etc.
+
+- Assignment operator
+The = operator assigns a value to a variable.
+
+- Comparison operators
+Used to compare tow values. the result is usually true or false.
+
+- Logical operators
+used to combine or reverse conditions.
