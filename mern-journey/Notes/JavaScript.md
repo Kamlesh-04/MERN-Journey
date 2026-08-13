@@ -24,3 +24,23 @@ Use const when the value should not be reassigned.
 
 - var
 var is the older way of declaring variables.
+
+## Data Types
+
+- String
+A string is text.
+
+- Number
+A number represent numeric values. javascript uses number for both integers and decimal numbers.
+
+- Boolean
+A boolean has only two values: true/false.
+
+- Undefined
+undefined means a variable has been declared but has not been given a value.
+
+- Null
+null means you intentionally have no value.
+
+- typeof
+typeof is an operator used to check the data type of a value.
