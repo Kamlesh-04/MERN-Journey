@@ -83,3 +83,17 @@ Use if..else when there are two possible outcomes. or when you have two choices.
 
 - else if
 Use else if when you need to check multiple conditions. or you have more than two possible outcomes.
+
+## Loops
+
+- for loop
+Use a for loop when you know how many times you want to repeat something.
+
+- while loop
+use a while loop when you want to repeat code while a condition is true.
+
+- loop condition
+The loop condition decides whether the loop should continue. as long as condition is true, the loop continues. when it becomes false, the loop stops.
+
+- increment (++)
+++ increases a number by 1.
