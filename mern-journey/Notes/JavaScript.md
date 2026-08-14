@@ -58,3 +58,17 @@ Used to compare tow values. the result is usually true or false.
 
 - Logical operators
 used to combine or reverse conditions.
+
+## Type Conversion
+
+- Number()
+Converts a value into a number.
+
+- String()
+Converts a value into a string.
+
+- Boolean()
+Converts a value into boolean(true/false).
+
+- typeof
+typeof is used to check the data type of a value.
