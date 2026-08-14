@@ -72,3 +72,14 @@ Converts a value into boolean(true/false).
 
 - typeof
 typeof is used to check the data type of a value.
+
+## Conditional Statements
+
+- if
+Use if when you want to run code only when a condition is true. or you only need to check one condition.
+
+- if...else
+Use if..else when there are two possible outcomes. or when you have two choices.
+
+- else if
+Use else if when you need to check multiple conditions. or you have more than two possible outcomes.
