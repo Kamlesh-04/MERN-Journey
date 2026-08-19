@@ -97,3 +97,20 @@ The loop condition decides whether the loop should continue. as long as conditio
 
 - increment (++)
 ++ increases a number by 1.
+
+## Functions
+
+- Function declaration
+A function declaration is how you create/define a function.
+
+- Function call
+A function call runs the function.
+
+- Parameters
+Parsmeters are variable wriiten inside the function's parentheses. they recive values when the function is called.
+
+- Arguments
+An argument is the actual value you pass to a function when calling it.
+
+- return
+return sends a value back from the function.
