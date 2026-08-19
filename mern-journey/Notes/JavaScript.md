@@ -114,3 +114,26 @@ An argument is the actual value you pass to a function when calling it.
 
 - return
 return sends a value back from the function.
+
+## Arrays
+
+- Creating an array
+Use square brakets[] to create an array.
+
+- Index
+An index is the position of an item in an array. array counting starts from 0.
+
+- Accessing items
+use the index to access an item.
+
+- Changing items
+You can change an array item using its index.
+
+- length
+The length property tells you how many items are in array.
+
+- push()
+push() adds a new item to the end of an array.
+
+- pop()
+pop() removes the last item from an array. pop() also returns the item that was removed.
