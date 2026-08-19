@@ -137,3 +137,26 @@ push() adds a new item to the end of an array.
 
 - pop()
 pop() removes the last item from an array. pop() also returns the item that was removed.
+
+## Objects
+
+- Object
+Create an object using {}.
+
+- Property
+A property is a piece of information stored inside an object.
+
+- Key-value pair
+Each proprty contains a key and value.
+
+- Dot notation
+use a dot . to access a property.
+
+- Changing properties
+you can change value of an existing property.
+
+- Adding properties
+you can add a new property to an existing object.
+
+- Deleting properties
+use the delete keyword to remove a property.
